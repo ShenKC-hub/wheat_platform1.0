@@ -8,5 +8,6 @@ This is  a high-throughput phenotyping platform to characterize wheat spike morp
    Note: The installer requires Microsoft Visual C++ Redistributable as a prerequisite.
 
 ##Implementation Details
+
 Full methodological descriptions appear in our article:
 "Geographical differentiation, breeding selection and molecular design for wheat spike morphology" [Citation].
